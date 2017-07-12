@@ -1,0 +1,1 @@
+var myArray = [5, "Chicago", true];
